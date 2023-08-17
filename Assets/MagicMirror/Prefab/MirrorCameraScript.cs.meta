@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d31f93e447eac7b45971505a2891c813
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MirrorObject: {fileID: 123684, guid: 977d462d3da090443aa549827d636355, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
